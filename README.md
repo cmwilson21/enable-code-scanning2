@@ -66,7 +66,7 @@ Code scanning is part of the [GitHub Advanced Security (GHAS)](https://docs.gith
   TBD-step-1-notes.
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Enable CodeQL</h2></summary>
 
 👋 Hello! Welcome to the GitHub Skills course: Secure Your Repository Source Code! 
@@ -107,7 +107,7 @@ In this first step, we'll be learning more about CodeQL and how to use it to sec
   TBD-step-2-notes.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Review and Triage CodeQL Alerts</h2></summary>
 
 _Way to go! You got CodeQL running! :tada:_
